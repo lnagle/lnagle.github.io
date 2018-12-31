@@ -1,24 +1,5 @@
 # Year in Review - 2018
 
-### Books Read
-Nonfiction:
-- Miles: The Autobiography - Miles Davis
-- Deep Work: Rules for Focused Success in a Distracted World - Cal Newport
-- Open: An Autobiography - Andre Agassi
-- Grant - Ron Chernow
-- Team of Rivals: The Political Genius of Abraham Lincoln - Doris Kearns Goodwin
-- Rework - Jason Fried & David Heinemeier Hansson
-
-Fiction:
-- Lost in the City - Edward P. Jones
-- Blood Meridian - Cormac McCarthy
-- Fierce Invalids Home From Hot Climates - Tom Robbins
-- The Lover - Marguerite Duras
-- Money: A Suicide Note - Martin Amis
-- City of Glass - Paul Auster
-- Cathedral - Raymond Carver
-- The Odyssey - Homer, translated by Emily Wilson
-
 Professionally, this year felt like it provided a ton of growth, first
 technically and then in soft skills. Joining
 Ameriprise involved diving head-first into a greenfield project using React,
@@ -43,3 +24,23 @@ onboarding, feedback mechanisms, inter-project tech lead communication, dissemin
 knowledge/decisions across the entire group, among others all have potential for
 improvement, and the more I’ve dug into these issues, the more I’m excited to
 tackle them.
+
+
+### Books Read/Listened To (favorites in bold)
+Nonfiction:
+- Miles: The Autobiography - Miles Davis
+- Deep Work: Rules for Focused Success in a Distracted World - Cal Newport
+- Open: An Autobiography - Andre Agassi
+- **Grant - Ron Chernow**
+- **Team of Rivals: The Political Genius of Abraham Lincoln - Doris Kearns Goodwin**
+- Rework - Jason Fried & David Heinemeier Hansson
+
+Fiction:
+- Lost in the City - Edward P. Jones
+- **Blood Meridian - Cormac McCarthy**
+- Fierce Invalids Home From Hot Climates - Tom Robbins
+- **The Lover - Marguerite Duras**
+- Money: A Suicide Note - Martin Amis
+- City of Glass - Paul Auster
+- **Cathedral - Raymond Carver**
+- The Odyssey - Homer, translated by Emily Wilson
