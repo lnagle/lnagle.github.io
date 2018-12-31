@@ -12,3 +12,6 @@ What I’m listening to:
 - Conversations with Tyler
 
 lnagle@gmail.com
+
+Posts:
+ - [Year in Review - 2018](yearInReview2018.md) - January 2019
