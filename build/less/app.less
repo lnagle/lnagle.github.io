@@ -1,0 +1,181 @@
+@background-color: #EAE7DC;
+@background-alt: #D8C3A5;
+@default-text-size: 16px;
+@text-color: #E85A4F;
+@text-alt: black;
+
+* {
+    color: black;
+    font-family: "Open sans", "sans-serif";
+    padding: 0px;
+}
+
+body {
+    background-color: @background-color;
+    margin: 0px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0px;
+}
+
+.about-list {
+    display: inline-block;
+    padding-right: 75px;
+    vertical-align: top;
+}
+
+.list-header {
+    margin: 0;
+    padding-bottom: 10px;
+}
+
+h1, h2, h3 {
+    color: @text-color;
+    font-weight: extra-bold;
+}
+
+div, p, span {
+    font-size: @default-text-size;
+    color: @text-color;
+}
+
+a {
+    text-decoration: none;
+    color: @text-alt;
+    font-size: @default-text-size;
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+li {
+    color: @text-color;
+    font-size: 16px;
+    font-style: italic;
+}
+
+.tech {
+    border: 1px solid @text-color;
+    border-radius: 3px;
+    font-size: 14px;
+    font-style: normal;
+    margin: 3px 3px 3px 0px;
+    padding: 2px 7px;
+}
+
+#header {
+    padding-left: 175px;
+    padding-right: 175px;
+    padding-top: 25px;
+    h1 {
+        font-size: 75px;
+        letter-spacing: 1px;
+        margin: 40px 0px 40px 0px;
+    }
+    h3 {
+        color: @text-alt;
+        font-size: 20px;
+        letter-spacing: 1px;
+        margin: 0px;
+        padding-left: 50px;
+    }
+}
+
+a.info {
+    position: relative;
+    z-index: 24;
+    &:hover {
+        z-index: 25;
+        div {
+            background-color: @background-color;
+            border: 2px solid @text-color;
+            border-radius: 5px;
+            color: @text-color;
+            display: block;
+            padding: 10px 10px 10px 10px;
+            position: absolute;
+            text-align: left;
+            top: 2em;
+            left: 2em;
+            white-space: nowrap;
+        }
+    }
+    div {
+        display: none;
+    }
+}
+
+#about {
+    padding: 0px 175px 100px 175px;
+}
+
+#certs-container {
+    background-color: @text-color;
+    // box-shadow: 0 4px 2px -2px black;
+    color: @background-color;
+    display: block;
+    margin: 150px 0px 150px 0px;
+    white-space: nowrap;
+    width: 100%;
+    .cert-container {
+        display: inline-block;
+        padding: 45px 0px 45px 0px;
+        width: 50%;
+        .cert-logo {
+            background-color: @background-color;
+            border: 10px solid @background-color;
+            border-radius: 50%;
+            display: table;
+            height: 190px;
+            margin: 0 auto;
+            position: relative;
+            width: 190px;
+            img {
+                display: block;
+                height: 100%;
+                left: 0;
+                object-fit: scale-down;
+                position: absolute;
+                top: 0;
+                width: 100%;
+            }
+        }
+        h5 {
+            color: @background-color;
+            display: block;
+            font-size: @default-text-size;
+            margin-bottom: 0;
+            text-align: center;
+            vertical-align: center;
+        }
+    }
+}
+
+.case-divier {
+    border-top: 3px solid @background-alt;
+}
+
+.case {
+    display: block;
+    overflow: auto;
+    margin: 50px 50px 50px 50px;
+    padding: 50px 25px 50px 25px;
+    .image-container {
+        display: inline-block;
+        float: left;
+        width: 35%;
+        img {
+            display: block;
+            height: 300px;
+            margin: 0 auto;
+            width: 300px;
+        }
+    }
+    .text-container {
+        display: inline-block;
+        float: right;
+        width: 65%;
+    }
+}
