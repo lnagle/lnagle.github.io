@@ -28,6 +28,7 @@ tackle them.
 
 ### Books Read/Listened To (favorites in bold)
 Nonfiction:
+- **The Power Broker: Robert Moses and the Fall of New York - Robert Caro**
 - Miles: The Autobiography - Miles Davis
 - Deep Work: Rules for Focused Success in a Distracted World - Cal Newport
 - Open: An Autobiography - Andre Agassi
@@ -38,9 +39,35 @@ Nonfiction:
 Fiction:
 - Lost in the City - Edward P. Jones
 - **Blood Meridian - Cormac McCarthy**
+- Another Country - James Baldwin
 - Fierce Invalids Home From Hot Climates - Tom Robbins
 - **The Lover - Marguerite Duras**
 - Money: A Suicide Note - Martin Amis
 - City of Glass - Paul Auster
 - **Cathedral - Raymond Carver**
 - The Odyssey - Homer, translated by Emily Wilson
+
+After making this list, I was pleasantly surprised to see just how much
+ground I had covered this year between books and audiobooks. Around the
+beginning of the year, I was beginning to feel bored by podcasts, which more
+and more felt lacking in both depth and entertainment (the former for a variety
+of reasons and the latter due to the triteness of the format). I picked up 'The
+Power Broker' on Audible and began listening to it on my walks to and from work.
+Binging large biographies or autobiographies that I likely wouldn't want to
+devote time to actually reading ended up being my pattern of listening for the
+entire year. 'Grant' and 'Team of Rivals' were the easy highlights, as they
+deftly managed to be both highly educational and thoroughly entertaining. My only
+regret is that I hadn't stopped to take notes, something I intend to correct in
+2019.
+
+On the fiction side, the huge win this year was making reading the last thing I
+did before going to bed. This had two effects: first, I read consistently, even
+if only a little each night and second, I sleep better. McCarthy, Carver, and
+Dueras were all fantastic; the lattermost certainly deserves another read or two.
+I was disappointed by 'The Odyssey', which read very dry. By the end I felt I
+could have foregone the story itself in favor of the excellent ~100 page essay at
+the beginning by the translator, Emily Wilson. Someday soon I'm going to swing by
+a library and thumb through a couple of the older translations to see if what
+they lack in Wilson's linguistic precision and sagacity they make up for in a
+more evocative and entertaining read.
+
