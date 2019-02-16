@@ -3,10 +3,9 @@
 Unabashed jack-of-all-trades, straddling the divide between people and software.
 
 Books I’m reading:
-- Learning to Look: A Handbook for the Visual Arts - Joshua C. Taylor
-- The Collected Works of Shakespeare
+- Practicalities - Marguerite Duras
+- Peopleware: Productive Projects and Teams - Tom DeMarco and Tim Lister
 - Titan: The Life of John D. Rockefeller, Sr. - Ron Chernow
-- Principles - Ray Dalio
 
 Podcasts I’m listening to:
 - Longform
