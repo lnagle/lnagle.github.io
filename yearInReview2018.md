@@ -61,10 +61,10 @@ regret is that I hadn't stopped to take notes, something I intend to correct in
 2019.
 
 On the fiction side, the huge win this year was making reading the last thing I
-did before going to bed. This had two effects: first, I read consistently, even
+do before going to bed. This has two effects: first, I read consistently, even
 if only a little each night and second, I sleep better. McCarthy, Carver, and
 Dueras were all fantastic; the lattermost certainly deserves another read or two.
-I was disappointed by 'The Odyssey', which read very dry. By the end I felt I
+I was disappointed by 'The Odyssey', which was very dry. By the end I felt I
 could have foregone the story itself in favor of the excellent ~100 page essay at
 the beginning by the translator, Emily Wilson. Someday soon I'm going to swing by
 a library and thumb through a couple of the older translations to see if what
