@@ -4,8 +4,8 @@ Unabashed jack-of-all-trades, straddling the divide between people and software.
 
 Books I’m reading:
 - The Mastermind - Evan Ratliff
-- The Mythical Man-Month - Frederick P. Brooks, Jr.
-- Titan: The Life of John D. Rockefeller, Sr. - Ron Chernow
+- Bird by Bird: Some Instructions on Writing and Life - Anne Lamott
+- The Effective Executive: The Definitive Guide to Getting the Right Things Done - Peter Drucker
 
 Podcasts I’m listening to:
 - Longform
