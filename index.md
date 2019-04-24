@@ -3,13 +3,13 @@
 Unabashed jack-of-all-trades, straddling the divide between people and software.
 
 Books I’m reading:
-- The Mastermind - Evan Ratliff
+- A Good Man Is Hard to Find and Other Stories - Flannery O'Connor
 - Bird by Bird: Some Instructions on Writing and Life - Anne Lamott
-- The Effective Executive: The Definitive Guide to Getting the Right Things Done - Peter Drucker
+- Antifragile: Things That Gain from Disorder - Nassim Nicholas Talib
 
 Podcasts I’m listening to:
 - Longform
-- Special Sauce
+- Conan O'Brien Needs A Friend
 - Conversations with Tyler
 
 Things I'm doing:
