@@ -18,6 +18,7 @@ Things I'm doing:
 - Muay Thai
 
 Posts:
-- [Year in Review: 2018](yearInReview2018.md) - January 2019
+- [A New Approach to Technical Interviews](newTechInterviewApproach.md)
+- [Year in Review: 2018](yearInReview2018.md)
 
 Feel free to drop me a line here: lnagle@gmail.com.
