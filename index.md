@@ -1,10 +1,11 @@
 # Lucas Nagle
 
-Unabashed jack-of-all-trades, straddling the divide between people and software.
+Unabashed jack-of-all-trades, bridging the divide between people and software.
 
 Books I’m reading:
 - A Good Man Is Hard to Find and Other Stories - Flannery O'Connor
-- Bird by Bird: Some Instructions on Writing and Life - Anne Lamott
+- Designing Data-Intensive Applications: The Big Ideas Behind Reliable,
+  Scalable, And Maintainable Systems - Martin Kleppmann
 - Antifragile: Things That Gain from Disorder - Nassim Nicholas Talib
 
 Podcasts I’m listening to:
@@ -14,8 +15,7 @@ Podcasts I’m listening to:
 
 Things I'm doing:
 - Searching for the best pizza in NYC
-- Building an AR arts education app
-- Muay Thai
+- Building a reading comprehension app
 
 Posts:
 - [A New Approach to Technical Interviews](newTechInterviewApproach.md)
