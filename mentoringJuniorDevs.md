@@ -4,7 +4,7 @@ One of the most rewarding parts of my job as a tech lead at Ameriprise has been 
 
 ### Import disclaimers/notes:
 - Being a good mentor and/or tech lead is a topic worthy of a book or four. This article is primarily focused on mentorship in the first six months or so after you hire a junior dev.
-- Thanks to my manager’s adept hiring instincts, I’ve been lucky enough to work with some smart folks who just happened to lack experience as software developers. This article probably won’t teach you how to compensate for a lack of quality hiring. If you need help with your interview process, check out [this post](../newTechInterviewApproach.md).
+- Thanks to my manager’s adept hiring instincts, I’ve been lucky enough to work with some smart folks who just happened to lack experience as software developers. This article probably won’t teach you how to compensate for a lack of quality hiring. If you need help with your interview process, check out [this post](newTechInterviewApproach.md).
 - Mentorship is not a skill I’ve mastered, so if you feel like anything here is worthy of alteration or correction, please reach out: lnagle@gmail.com
 
 ### A Healthy Environment for Learning
