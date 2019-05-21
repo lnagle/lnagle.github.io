@@ -18,6 +18,7 @@ Things I'm doing:
 - Building a reading comprehension app
 
 Posts:
+- [Mentoring Junior Developers](mentoringJuniorDevs.md)
 - [Meaningful UI Testing in React/Redux Apps](meaningfulUITestingInReactRedux.md)
 - [How I Stay on Track as a Remote Worker](productiveRemoteWork.md)
 - [A New Approach to Technical Interviews](newTechInterviewApproach.md)
