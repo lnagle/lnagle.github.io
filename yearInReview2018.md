@@ -1,4 +1,6 @@
-# Year in Review - 2018
+---
+title: Year in Review - 2018
+---
 
 Professionally, this year felt like it provided a ton of growth, first
 technically and then in soft skills. Joining

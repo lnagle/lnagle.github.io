@@ -1,4 +1,6 @@
-# Lucas Nagle
+---
+title: null
+---
 
 Unabashed jack-of-all-trades, bridging the divide between people and software.
 

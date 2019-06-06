@@ -1,4 +1,6 @@
-# A New Approach to Technical Interviews
+---
+title: A New Approach to Technical Interviews
+---
 
 Much has been written about the ways the interview process is broken in tech. In the front end group at Ameriprise Financial, we’re trying something new.
 

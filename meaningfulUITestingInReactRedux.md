@@ -1,4 +1,6 @@
-# Meaningful UI Testing in React/Redux Apps
+---
+title: Meaningful UI Testing in React/Redux Apps
+---
 
 This write-up came out of experiences building a financial advisor dashboard application at Ameriprise. My team and I originally went the route of snapshot testing most of our components, but we ended up tearing those tests out some months later when it had become apparent just how little value they were adding. Since then, we've shifted our testing approach to the one outlined below and it's proven far more useful.
 

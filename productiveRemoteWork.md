@@ -1,4 +1,6 @@
-# How I Stay on Track as a Remote Worker
+---
+title: How I Stay on Track as a Remote Worker
+---
 
 Last July, I went from being on site at the Ameriprise offices in Minneapolis to fully remote in Brooklyn. I’m now a big proponent of remote work (especially if you're a developer), but it’s important to be realistic about how challenging it can be to stay focussed. The great freedom that comes with working from home has required me to develop systems and techniques that facilitate productivity in the face of many more available distractions. Below is a list of things that have helped me most.
 

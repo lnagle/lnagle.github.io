@@ -1,4 +1,6 @@
-# Mentoring Junior Developers
+---
+title: Mentoring Junior Developers
+---
 
 One of the most rewarding parts of my job as a tech lead at Ameriprise has been mentoring a team of junior developers. With my current project wrapping up, it seems like a natural time to reflect on what I’ve learned about mentorship, specifically creating a healthy environment for learning, common soft skill/process pitfalls junior devs fall into, and several things that you as a mentor should be working on as you help your devs get up to speed.
 
