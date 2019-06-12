@@ -5,11 +5,11 @@ title: null
 Unabashed jack-of-all-trades, bridging the divide between people and software.
 
 Posts:
-- [Mentoring Junior Developers](mentoringJuniorDevs.md)
-- [Meaningful UI Testing in React/Redux Apps](meaningfulUITestingInReactRedux.md)
-- [How I Stay on Track as a Remote Worker](productiveRemoteWork.md)
-- [A New Approach to Technical Interviews](newTechInterviewApproach.md)
-- [Year in Review: 2018](yearInReview2018.md)
+- [Mentoring Junior Developers](mentoring-junior-devs.md)
+- [Meaningful UI Testing in React/Redux Apps](meaningful-ui-testing-react-redux.md)
+- [How I Stay on Track as a Remote Worker](productive-remote-work.md)
+- [A New Approach to Technical Interviews](new-tech-interview-approach.md)
+- [Year in Review: 2018](year-in-review-2018.md)
 
 Books I’m reading:
 - Designing Data-Intensive Applications: The Big Ideas Behind Reliable,
