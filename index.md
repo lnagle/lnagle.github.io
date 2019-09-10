@@ -5,6 +5,7 @@ title: null
 Unabashed jack-of-all-trades, bridging the divide between people and software.
 
 Posts:
+- [Know Your JS: Matrix Creation](know-your-js-matrix-creation.md)
 - [Mentoring Junior Developers](mentoring-junior-devs.md)
 - [Meaningful UI Testing in React/Redux Apps](meaningful-ui-testing-react-redux.md)
 - [How I Stay on Track as a Remote Worker](productive-remote-work.md)
