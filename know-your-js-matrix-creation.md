@@ -1,6 +1,8 @@
-# Know Your JS: 2D Matrix Creation
+---
+title: 'Know Your JS: 2D Matrix Creation'
+---
 
-Recenly I was working through a problem on LeetCode that required the creation of an X-by-X racetrack. The input would direct a car through a series of moves around the racetrack, printing the board with each movement. Simple enough? 
+Recenly I was working through a problem on LeetCode that required the creation of an X-by-X racetrack. The input would direct a car through a series of moves around the racetrack, printing the board with each movement. Simple enough?
 
 I created my matrix- in this case 4x4- and set my car’s starting position:
 
@@ -18,7 +20,7 @@ I happily clacked away at my keyboard, implementing the rest of the solution wit
 0010
 ```
 
-If you’ve been in the JS world for any length of time you're probably not surprised by this output. The error I had made- a classic error, really- was confusing pass by reference for pass by value. The MDN docs for `.fill()` make this perfectly clear: 
+If you’ve been in the JS world for any length of time you're probably not surprised by this output. The error I had made- a classic error, really- was confusing pass by reference for pass by value. The MDN docs for `.fill()` make this perfectly clear:
 
 ```
 When fill gets passed an object, it will copy the reference and fill the array with references to that object.

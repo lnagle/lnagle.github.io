@@ -15,8 +15,8 @@ Posts:
 Books I’m reading:
 - Designing Data-Intensive Applications: The Big Ideas Behind Reliable,
   Scalable, And Maintainable Systems - Martin Kleppmann
-- The Path to Power: The Years of Lyndon Johnson - Robert Caro
-- A Good Man Is Hard to Find and Other Stories - Flannery O'Connor
+- Abraham Lincoln: A Life - Michael Burlingame
+- Falconer - John Cheever
 
 Podcasts I’m listening to:
 - Longform
