@@ -5,6 +5,7 @@ title: null
 Unabashed jack-of-all-trades, bridging the divide between people and software.
 
 Posts:
+- [Backpressure in Node Streams: A Conceptual Overview](backpressure-in-node-streams.md)
 - [Know Your JS: Matrix Creation](know-your-js-matrix-creation.md)
 - [Mentoring Junior Developers](mentoring-junior-devs.md)
 - [Meaningful UI Testing in React/Redux Apps](meaningful-ui-testing-react-redux.md)
