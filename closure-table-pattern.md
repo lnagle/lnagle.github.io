@@ -4,7 +4,8 @@ title: 'Working with Graphs in Postgres Part 1: Modeling Trees Using the Closure
 
 This past year I built an app that allows users to create and manage their to do list as a kind of flow chart. The nodes were tasks, the edges dependencies (‘get groceries’ must occur before ‘make dinner’, etc.), and creating loops of any kind wasn’t allowed (there are other apps for making and sustaining good habits). In other words, the app was a specific application of a [Directed Acyclic Graph (DAG)](https://en.wikipedia.org/wiki/Directed_acyclic_graph). 
 
-[image:9EBAD137-5849-4AF4-9ED0-4D6AE39102A6-54107-0006641BFBCC5FD6/Fig1.png]
+![Figure 1](/assets/ctp-fig1.png)
+
 An example of a DAG
 
 The app provides several interesting engineering problems, but the one I’m going to focus on in the following two posts is the database layer, specifically using Postgres.
@@ -29,19 +30,19 @@ CREATE TABLE edges (
 
 Nothing fancy so far. The secret sauce is in what records are created when two nodes are connected. For example, say we have the following structure:
 
-[image:92348D9E-9D84-4768-893A-021AEB54DB47-54107-00066BAD3E0ACF5C/Fig2.png]
+![Figure 2](/assets/ctp-fig2.png)
 
 In our database, that would look like the following:
 
-[image:68D4B84B-60CA-4455-ADE3-27C3816B1444-54107-0006643E279740D0/Fig3.png]
+![Figure 3](/assets/ctp-fig3.png)
 
 Note the extra records in which the nodes connect to themselves (what I call ‘loopback’ edges). I’ll come back to why these are useful in a second.  Now, we create a new node and connect node 2 to it like so:
 
-[image:98AC859A-CDCD-436C-9B23-06DF41293EB0-54107-00066BAF8D89983A/Fig4.png]
+![Figure 4](/assets/ctp-fig4.png)
 
 Now, not only do we create a new edge with 2 as its source and 3 as its destination, but we also create another edge with 1 as its source and 3 as its destination, as well as a new loopback edge for node 3. The result looks like this:
 
-[image:FEB452F3-1C56-40F3-A939-0E3E3A258101-54107-00066467EA074517/Fig5.png]
+![Figure 5](/assets/ctp-fig5.png)
 
 The query itself is:
 
