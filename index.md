@@ -4,8 +4,13 @@ title: null
 
 Unabashed jack-of-all-trades, bridging the divide between people and software.
 
-Posts:
+#### 2022:
+- [Working with Graphs in Postgres, Part 2: Extending the Closure Table Pattern to Support DAGs](extended-closure-table-pattern.md)
+
+#### 2021:
 - [Working with Graphs in Postgres, Part 1: Modeling Trees Using the Closure Table Pattern](closure-table-pattern.md)
+
+#### 2019
 - [Backpressure in Node Streams: A Conceptual Overview](backpressure-in-node-streams.md)
 - [Know Your JS: Matrix Creation](know-your-js-matrix-creation.md)
 - [Mentoring Junior Developers](mentoring-junior-devs.md)
