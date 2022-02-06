@@ -1,4 +1,7 @@
-# Working with Graphs in Postgres Part 2: Extending the Closure Table Pattern to Support DAGs
+---
+title: 'Working with Graphs in Postgres Part 2: Extending the Closure Table Pattern to Support DAGs'
+---
+
 In [part 1](closure-table-pattern.md) I wrote about building an application that is, effectively, the love child of a flow chart and a to do list, and how that presented the problem of modeling [DAGs](https://en.wikipedia.org/wiki/Directed_acyclic_graph) in SQL. I went on to explain how the closure table pattern could be used to model trees. This post will close the loop by showing how the closure table pattern can be extended to support not only trees but DAGs as well.
 
 ![Figure 1](/assets/extended-closure-table-fig-1.png)
