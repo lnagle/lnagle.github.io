@@ -4,6 +4,9 @@ title: null
 
 Unabashed jack-of-all-trades, bridging the divide between people and software.
 
+#### 2024:
+- [Pain-Driven Development](pain-driven-development.md)
+
 #### 2022:
 - [Debugging a Deadlock: A Case Study](debugging-a-deadlock.md)
 - [Working with Graphs in Postgres, Part 2: Extending the Closure Table Pattern to Support DAGs](extended-closure-table-pattern.md)
