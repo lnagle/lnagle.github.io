@@ -5,6 +5,7 @@ title: null
 Unabashed jack-of-all-trades, bridging the divide between people and software.
 
 #### 2024:
+- [Introduction to Green Software](introduction-to-green-software.md)
 - [Pain-Driven Development](pain-driven-development.md)
 
 #### 2022:
