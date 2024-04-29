@@ -9,4 +9,4 @@ Climate change mitigation is a complicated subject (to say the least), and the c
 For more info about green software, check out these resources:
 - [The Green Software Foundation](https://greensoftware.foundation/)
 - [Google’s Guides to Green Software](https://inthecloud.withgoogle.com/go-green-software/software-guide.html)
-- [ClimateAction.tech](climateaction.tech/)
+- [ClimateAction.tech](https://climateaction.tech)
