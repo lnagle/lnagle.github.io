@@ -5,6 +5,7 @@ title: null
 Unabashed jack-of-all-trades, bridging the divide between people and software.
 
 #### 2024:
+- [Using Python and GeoPandas to Analyze the Effects of Climate Change on NYC Housing](nyc-at-risk-housing.md)
 - [Introduction to Green Software](introduction-to-green-software.md)
 - [Pain-Driven Development](pain-driven-development.md)
 
