@@ -31,7 +31,7 @@ The query that kept showing up in the logs as failing as #3. That doesn’t nece
 Anyway, onto the query itself. As mentioned above, it’s s a batch upsert that’s intended to cache the `things_to_do` chosen by the service’s algorithm for the user for that day. The query looked something like this:
 
 ```
-INSERT INTO things_to_do (user_id, activity_name, sortOrder) VALUES (‘123’, ‘short-walk’, 1, now()), (‘123’, ‘grocery-list’, 2), (‘123’, ‘stretch-break’, 3);
+INSERT INTO things_to_do (user_id, activity_name, sortOrder) VALUES (‘123’, ‘short-walk’, 1), (‘123’, ‘grocery-list’, 2), (‘123’, ‘stretch-break’, 3);
 ```
 
 Note that:
